@@ -12,6 +12,7 @@
             "presentation": {
                 "reveal": "always",
                 "panel": "new"
+
             },
             "problemMatcher": [
                 "$gcc"
